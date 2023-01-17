@@ -1,4 +1,13 @@
-Debug.Log("Hello World!");
 
-public int x = 3 ;
+using System;
 
+namespace Simple
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("This is C#");
+        }
+    }
+}
