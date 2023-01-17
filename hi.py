@@ -1,3 +1,4 @@
-x = str(9.0)
+x= 2
 
-print(x)
+for i  in range(x):
+    print("Hello World! " + str(i+1))
